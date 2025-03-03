@@ -1,8 +1,5 @@
 # Capstone_DA13
 
-Got it! Let’s adjust the overview to focus more on the external context about population growth affecting wildlife, and the urgency of taking action to protect endangered species in Tennessee before it’s too late. Here's the revised version:
-
----
 
 # TN Growth, Convenience Centers, and Wildlife Impact
 
