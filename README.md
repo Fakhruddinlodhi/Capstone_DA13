@@ -39,7 +39,7 @@ This project seeks to highlight regions in Tennessee where population growth, in
    - Python (pandas, numpy)
 
 - **Data Visualization:**  
-   - Tableau
+   - [Tableau](https://public.tableau.com/views/TNGrowth-ConvenienceCentersandWildLife-CapstoneProject/Intro?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 ## Methodology
 
