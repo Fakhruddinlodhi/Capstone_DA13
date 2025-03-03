@@ -1,7 +1,4 @@
-# Capstone_DA13
-
-
-# TN Growth, Convenience Centers, and Wildlife Impact
+# TN Growth, Convenience Centers, and Wildlife
 
 ## Overview
 
